@@ -39,7 +39,7 @@ st.write(
 # ==========================================
 
 df = pd.read_csv(
-    "data/mplads_ml_results.csv"
+    mplads_ml_results.csv"
 )
 
 
